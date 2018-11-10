@@ -1,5 +1,5 @@
 //SISTEMA DE MONITORAMENTO DE ENERGIA ELETRICA "eLETROVIEW"
-//Criado por Giovanne Barbosa & Maxsuel Matos
+//Criado por Giovanne Barbosa 
 //v1.7.1
 //última atualização: 29/11/2017 21:43
 //Modificações: melhorada a precisão dos calculos, criada funções de leitura de potencias
